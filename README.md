@@ -84,5 +84,5 @@ The Excel dashboard can be used by the sales or category team to track discount 
 
 ## Files
 ```
-├── superstore-sales-analysis.xlsx    # Excel file with Pivot Tables and Dashboard
+├── superstore-sales-analysis.xlsx
 ```
